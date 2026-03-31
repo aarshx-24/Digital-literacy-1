@@ -2,7 +2,7 @@
 
 Dear Internship Coordinator,
 
-I hope you are doing well. My name is Arsh Arun, and I am currently a student pursuing B-Tech in CSE(AIML) at Vellore Institute Of Technology. I am writing to express my interest in the summer internship opportunities available at J.P. Morgan. I am eager to gain practical experience and further develop my skills in Software Development. I am particularly interested in your company because of its strong reputation, innovative work culture, and the valuable learning opportunities it provides to students and young professionals.
+I hope you are doing well. My name is Arsh Arun, and I am currently a student pursuing B-Tech in CSE(AIML) at Vellore Institute Of Technology. I am writing to express my interest in the summer internship opportunities available at Google. I am eager to gain practical experience and further develop my skills in Software Development. I am particularly interested in your company because of its strong reputation, innovative work culture, and the valuable learning opportunities it provides to students and young professionals.
 
 Through my academic coursework and personal projects, I have developed skills in Software Development. I am enthusiastic about applying these skills in a professional environment and contributing positively to your team while learning from experienced professionals.
 
